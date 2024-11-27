@@ -45,11 +45,11 @@
 
 
 ## 📌 네트워크
-- TCP와 UDP
+- [TCP와 UDP](https://github.com/HoyiTT/CS_Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP%EC%99%80%20UDP.md)
   
 
 ## 📌 운영체제
-- 프로세스와 스레드
+- [프로세스와 스레드](https://github.com/HoyiTT/CS_Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%A0%95%EB%A6%AC.pdf)
 
 
 ## 📌 데이터베이스
