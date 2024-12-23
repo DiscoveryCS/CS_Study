@@ -23,12 +23,13 @@
 </table>
 
 ## 주차별 주제
-|주차|주제|발표자|
-|------|---|---|
-|1주차|프로세스와 스레드|박준서|
-|2주차|TCP와 UDP|이초은|
-|3주차|정렬 / B-tree|박준서 / 김아현|
-|4주차|퀵정렬|-|
+|주차|주제| 발표자 |
+|------|---|-----|
+|1주차|프로세스와 스레드| 박준서 |
+|2주차|TCP와 UDP| 이초은 |
+|3주차|정렬 / B-tree| 박준서 / 김아현 |
+|4주차|퀵정렬| 박준서 |
+|5주차|캐시메모리|박준서|
 
 
 
@@ -42,8 +43,7 @@
 
 ## 📌 자료구조
 - [B-Tree]()
-
-
+- [퀵 정렬](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/quick%20sort.md)
 
 
 ## 📌 네트워크
@@ -56,7 +56,8 @@
 
 ## 📌 데이터베이스
 
-
+## 📌 컴퓨터 구조
+- [캐시 메모리](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/cache-memory.md)
 
 
 ## 📌 Design Pattern
