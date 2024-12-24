@@ -30,6 +30,7 @@
 |3주차|정렬 / B-tree| 박준서 / 김아현 |
 |4주차|퀵정렬| 박준서 |
 |5주차|캐시메모리|박준서|
+|6주차|Array vs ArrayList vs LinkedList|박준서|
 
 
 
