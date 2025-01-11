@@ -31,6 +31,8 @@
 |4주차|퀵정렬| 박준서 |
 |5주차|캐시메모리|박준서|
 |6주차|Array vs ArrayList vs LinkedList|박준서|
+|7주차|DB Key의 종류|이다영|
+|8주차|컴파일 과정|-|
 
 
 
@@ -57,6 +59,7 @@
 
 
 ## 📌 데이터베이스
+- [DB Key의 종류]()
 
 ## 📌 컴퓨터 구조
 - [캐시 메모리](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/cache-memory.md)
@@ -66,7 +69,7 @@
 
 
 ## 📌 Algorithm
-- [정렬]()
+- [정렬](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/sort.md)
 
 
 
