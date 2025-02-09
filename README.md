@@ -18,7 +18,7 @@
     <td align="center"><a href="https://github.com/zlzzlzz2l"><img src="https://avatars.githubusercontent.com/u/48669011?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김아현</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/seolyee"><img src="https://avatars.githubusercontent.com/u/60960108?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이예린</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ChoEun0"><img src="https://avatars.githubusercontent.com/u/114717619?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이초은</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /></td>
+    <td align="center"><a href="yeeeeeaa"><img src="https://avatars.githubusercontent.com/u/63141989?v=4" width="100px;" alt=""/><br /><sub><b>이다영</b></sub></a><br /></td>
   </tr>
 </table>
 
