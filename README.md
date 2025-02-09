@@ -32,14 +32,16 @@
 |5주차|캐시메모리|박준서|
 |6주차|Array vs ArrayList vs LinkedList|박준서|
 |7주차|DB Key의 종류|이다영|
-|8주차|컴파일 과정|-|
+|8주차|컴파일 과정|이초은|
+|9주차|HashTable|-|
+
 
 
 
 
 
 ## 📌 개발상식
-
+- [컴파일 과정]()
 
 
 
@@ -48,6 +50,7 @@
 - [B-Tree]()
 - [퀵 정렬](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/quick%20sort.md)
 - [Array vs ArrayList vs LinkedList](https://github.com/DiscoveryCS/CS_Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Array%20vs%20ArrayList%20vs%20LinkedList.md)
+- [HashTable]()
 
 
 ## 📌 네트워크
